@@ -6,3 +6,5 @@ Final
 ## I like to eat several things.
 
 [check out my second page](secondpage.md)
+
+[check out my third page](thirdpage.md)
